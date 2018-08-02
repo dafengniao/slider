@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wxm-progress": "../wxm-progress/wxm-progress"
+  }
+}

@@ -1,0 +1,3 @@
+<view class='slider_bg'>
+  <wxm-slider id="wxmSlider" value='0' max="{{slider.max}}" width="{{slider.width}}" describe="{{slider.describe}}" blockSrc="../../images/icon.png" blockImageWidth="{{slider.blockImageWidth}}" blockImageHeight="{{slider.blockImageHeight}}" activeColor="{{slider.activeColor}}" backgroundColor="{{slider.backgroundColor}}" activeFont="{{slider.activeFont}}" fontColor="{{slider.fontColor}}" bind:sliderTap="sliderTap" bind:sliderStart="sliderStart" bind:sliderChange="sliderChange" bind:sliderEnd="sliderEnd" bind:sliderCancel="sliderCancel"></wxm-slider> 
+</view>

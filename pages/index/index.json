@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "slider",    
+  "usingComponents": {
+    "wxm-slider": "../../component/wxm-slider/wxm-slider",
+    "wxm-progress": "../../component/wxm-progress/wxm-progress"
+  },
+  "disableScroll": true
+}
